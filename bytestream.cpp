@@ -68,4 +68,5 @@ uint32_t readUInt32(uint32_t uNum) {
     // 4. add high 1 bits on all but last (most significant) group to form bytes
     // 5. in hexadecimal
     // 6. output stream (LSB to MSB)
+    
 }
